@@ -1,5 +1,5 @@
 # MALL_CUSTOMER_HIERARCHICALC_CLUSTER
-I have created Machine Learning Model With K-Means Clustering for CUSTOMER DATA.
+I have created Machine Learning Model With K-Means Clustering for CUSTOMER DATA..
 
 In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), and [Sklearn](https://scikit-learn.org/) for Analysis, Vizualization and Model Development.
 
